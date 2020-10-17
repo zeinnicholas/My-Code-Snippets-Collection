@@ -19,7 +19,7 @@ A Collection of Code Snippets to use with the Code Snippets WordPress Plugin
   * [code-snippets.json](https://github.com/zeinnicholas/My-Code-Snippets-Collection/blob/master/PHP/Media/media-addupdate-image-sizes.code-snippets.json) 
   * [php](https://github.com/zeinnicholas/My-Code-Snippets-Collection/blob/master/PHP/Media/media-addupdate-image-sizes.code-snippets.php)
 
-#### Taxonomies
+#### Taxonomies [@link](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP/Taxonomies)
 * **Deregister Unused Taxonomies** 
   * [code-snippets.json](https://github.com/zeinnicholas/My-Code-Snippets-Collection/blob/master/PHP/Taxonomies/cleanup-deregister-unused-taxonomies.code-snippets.json) 
   * [php](https://github.com/zeinnicholas/My-Code-Snippets-Collection/blob/master/PHP/Taxonomies/cleanup-deregister-unused-taxonomies.code-snippets.php)
