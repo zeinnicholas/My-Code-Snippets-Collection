@@ -3,9 +3,9 @@ A Collection of Code Snippets to use with the Code Snippets WordPress Plugin
 
 ## Available Snippets
 
-### PHP [@link](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP)
+### PHP/ [@link](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP)
 
-#### Media [@link](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP/Media)
+#### [PHP](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP)/Media [@link](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP/Media)
 * **Check Registered Image Sizes** 
   * [code-snippets.json](https://github.com/zeinnicholas/My-Code-Snippets-Collection/blob/master/PHP/Media/media-check-registered-image-sizes.code-snippets.json) 
   * [php](https://github.com/zeinnicholas/My-Code-Snippets-Collection/blob/master/PHP/Media/media-check-registered-image-sizes.code-snippets.php)
@@ -19,10 +19,15 @@ A Collection of Code Snippets to use with the Code Snippets WordPress Plugin
   * [code-snippets.json](https://github.com/zeinnicholas/My-Code-Snippets-Collection/blob/master/PHP/Media/media-addupdate-image-sizes.code-snippets.json) 
   * [php](https://github.com/zeinnicholas/My-Code-Snippets-Collection/blob/master/PHP/Media/media-addupdate-image-sizes.code-snippets.php)
 
-#### Taxonomies [@link](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP/Taxonomies)
+#### [PHP](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP)/Taxonomies [@link](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP/Taxonomies)
 * **Deregister Unused Taxonomies** 
   * [code-snippets.json](https://github.com/zeinnicholas/My-Code-Snippets-Collection/blob/master/PHP/Taxonomies/cleanup-deregister-unused-taxonomies.code-snippets.json) 
   * [php](https://github.com/zeinnicholas/My-Code-Snippets-Collection/blob/master/PHP/Taxonomies/cleanup-deregister-unused-taxonomies.code-snippets.php)
+
+#### [PHP](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP)/ACF [@link](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP/ACF)
+* **ACF Dynamic Color Variable**
+  * code-snippets.json
+  * [php](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP/ACF/acf-dynamic-color-variable.php)
 
 ## Instructions
 
