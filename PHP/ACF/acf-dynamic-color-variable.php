@@ -1,5 +1,4 @@
 <?php
-
 /* Advanced Custom Fields - Dynamic Color Variable 
  * Adds an inline <style> to the front-end with a dynamic
  * color value based on a pre-selected Color Picker field using a CSS3 variable.
