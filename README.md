@@ -3,7 +3,7 @@ A Collection of Code Snippets to use with the Code Snippets WordPress Plugin
 
 ## Available Snippets
 
-### PHP/ [@link](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP)
+### PHP [@link](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP)
 
 #### [PHP](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP)/Media [@link](https://github.com/zeinnicholas/My-Code-Snippets-Collection/tree/master/PHP/Media)
 * **Check Registered Image Sizes** 
