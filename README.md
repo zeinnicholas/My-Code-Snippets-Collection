@@ -1,4 +1,4 @@
-# My-Code-Snippets-Collection
+# My Code Snippets Collection
 A Collection of Code Snippets to use with the Code Snippets WordPress Plugin
 
 ## Available Snippets
